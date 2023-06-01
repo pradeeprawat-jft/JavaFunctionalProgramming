@@ -16,7 +16,7 @@ public class _Function {
 
         Integer number2 = incrementByOneFunction.apply(1);
         System.out.println(number2);
-        
+
         //function Chaining
         Integer ans = addByOneAndMultiplyBy10.apply(10);
         System.out.println(ans);
