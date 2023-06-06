@@ -2,7 +2,7 @@ package consumer;
 
 import java.util.function.Consumer;
 
-public class _Function {
+public class _Consumer {
     static Consumer<Customer> getConsumer = customer -> System.out.println("Hello " + customer.name + ". Registered Mobile number is " + customer.mobile);
 
     public static void main(String[] args) {
