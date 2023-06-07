@@ -1,5 +1,4 @@
 package optional;
-
 import java.util.Optional;
 
 public class Main {
@@ -19,6 +18,5 @@ public class Main {
                     NotFoundException::notFound
             );
         }
-
     }
 }
