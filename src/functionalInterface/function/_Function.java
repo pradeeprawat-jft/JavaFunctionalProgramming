@@ -1,9 +1,9 @@
-package function;
+package functionalInterface.function;
 
 import java.util.function.Function;
 
 public class _Function {
-
+//input and output is there  means takes input and produce output with the business logic
     static Function<Integer, Integer> incrementByOneFunction = number -> ++number;
     static Function<Integer, Integer> multiplyBy10 = number -> number * 10;
 

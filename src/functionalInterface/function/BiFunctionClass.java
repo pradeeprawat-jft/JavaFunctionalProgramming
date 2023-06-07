@@ -1,8 +1,9 @@
-package function;
+package functionalInterface.function;;
 
 import java.util.function.BiFunction;
 
 public class BiFunctionClass {
+//input and output is there  means takes input and produce output with the business logic
 
 
     //    FunctionalInterface function chaining method
