@@ -22,5 +22,10 @@ public class GenericClass {
         String name = person.getFirst();
         Integer age = person.getSecond();
         System.out.println("Name: " + name + ", Age: " + age);
+
+        Pair<Double, Integer> num = new Pair<>(2.3, 30);
+        Double num1 = num.getFirst();
+        Integer num2 = num.getSecond();
+        System.out.println("double: " + num1 + ", integer: " + num2);
     }
 }
