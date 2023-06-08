@@ -1,8 +1,10 @@
-package consumer;
+package functionalInterface.consumer;
 
 import java.util.function.Consumer;
 
 public class _Consumer {
+
+    // no result returned only takes input
     static Consumer<Customer> getConsumer = customer -> System.out.println("Hello " + customer.name + ". Registered Mobile number is " + customer.mobile);
 
     public static void main(String[] args) {

@@ -1,9 +1,10 @@
-package consumer;
+package functionalInterface.consumer;
 
 
 import java.util.function.BiConsumer;
 
 public class BiConsumerClass {
+    // no result returned only takes input can take two parameter
 
     static BiConsumer<Customer, Boolean> consumer = (customer, status) -> System.out.println("Hello " + customer.name + ". Registered Mobile number is " + (status ? customer.mobile : "**********"));
 
