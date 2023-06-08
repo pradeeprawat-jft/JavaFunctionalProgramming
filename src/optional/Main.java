@@ -14,7 +14,8 @@ public class Main {
             System.out.println(str.length());
         } catch (Exception e) {
             Optional.ofNullable(str).ifPresentOrElse(
-                    (value) -> System.out.println("str have the value " + value),
+                    (value) ->
+                            System.out.println("str have the value " + value),
                     NotFoundException::notFound
             );
         }
