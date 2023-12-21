@@ -69,7 +69,7 @@
     "duration": "4:02",
     "countryOfOrigin": "Germany"
   },
-{
+  {
     "title": "Techno ",
     "artist": " Breakers",
     "genre": "Buzz",
