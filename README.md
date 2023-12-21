@@ -17,3 +17,9 @@ username:"pradeep",
 age:23,
 email:"pradeep@gmail.com"
 }
+
+{
+username:"pradeep",
+age:23,
+email:"pradeep@gmail.com"
+}
