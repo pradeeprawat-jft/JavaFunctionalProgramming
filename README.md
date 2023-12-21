@@ -97,4 +97,18 @@
     "duration": "8:22",
     "countryOfOrigin": "India"
   }
+  {
+    "title": "Harmony in the Rain",
+    "artist": "Melody Masters",
+    "genre": "Jazz",
+    "duration": "4:32",
+    "countryOfOrigin": "United States"
+  },
+  {
+    "title": "Electric Echo",
+    "artist": "Synthwave Surge",
+    "genre": "Electronic",
+    "duration": "3:58",
+    "countryOfOrigin": "Canada"
+  },
 ]
