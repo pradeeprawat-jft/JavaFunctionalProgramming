@@ -90,7 +90,7 @@
     "duration": "8:22",
     "countryOfOrigin": "India"
   },
- {
+  {
     "title": "Techno ",
     "artist": " Breakers",
     "genre": "Buzz",
