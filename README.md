@@ -89,14 +89,14 @@
     "genre": "Buzz",
     "duration": "8:22",
     "countryOfOrigin": "India"
-  }
+  },
  {
     "title": "Techno ",
     "artist": " Breakers",
     "genre": "Buzz",
     "duration": "8:22",
     "countryOfOrigin": "India"
-  }
+  },
   {
     "title": "Harmony in the Rain",
     "artist": "Melody Masters",
